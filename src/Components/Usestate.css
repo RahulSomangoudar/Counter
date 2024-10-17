@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+button {
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 15px;
+  margin-left: 15px;
+  background-color: rgb(70, 43, 226);
+  color: #fff;
+  border: 2px solid;
+}
+
+button:hover{
+    background-color: rgb(159, 137, 245);
+    color: #fff;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 250px;
+}
